@@ -9,13 +9,13 @@ Adopted from
 6. [Static files](https://docs.djangoproject.com/en/1.11/intro/tutorial06/)
 7. [Customizing the admin site](https://docs.djangoproject.com/en/1.11/intro/tutorial07/)
 
-To successfully run this project, make sure you meet following requirement:
+## To successfully run this project, make sure you meet following requirement:
 
-## Python 3+
-## Pipenv
-## Django 
+- Python 3+
+- Pipenv
+- Django 
 
-STEPS:
+## STEPS:
 
 1. Installation of python:
 - apt-get install python3 python3-pip
@@ -34,6 +34,6 @@ STEPS:
 7. Now runserver. That's all.
 - python manage.py runserver
 
-Login account details:
-## admin user: admin
-## password: password
+## Login account details:
+- admin user: admin
+- password: password
